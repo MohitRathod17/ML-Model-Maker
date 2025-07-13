@@ -18,7 +18,7 @@ A powerful Streamlit-based application that lets you explore data, handle prepro
 
 ## 🖼 App Preview
 
-![Demo](demo.gif)
+https://machine-learning-model-maker.streamlit.app/
 
 ## 📦 Installation
 
